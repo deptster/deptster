@@ -12,13 +12,14 @@
 - 🤔 I’m looking for help with Data Structures and Algorithms.
 - ⚡ Fun fact: I ❤️ Coffee☕.
 - 📫 How to reach me: mail me at [deepantripathi0000@gmail.com](mailto:deepantripathi0000@gmail.com)
+---
 
 <!--
 
----
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanisingh-24&show_icons=true&theme=merko)   ![My Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vanisingh-24&layout=compact&hide=html&theme=merko)
 
-# (This may be the most platform independent comment)
+-->
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -36,4 +37,4 @@
 
 ---
 
--->
+
