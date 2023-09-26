@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/deepantripathi0000@gmail.com-30302f?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:deepantripathi0000@gmail.com)
 [![Github Badge](https://img.shields.io/badge/deepan_tripathi-30302f?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/deptster)
 ## Hi there 👋,           
-##### I'm Deepan Tripathi, a Computer Science graduate with experience in Zoho Development, Web Design & development and App Development. If not working, you can find me gaming, learning, or listening to music :)
+I'm Deepan Tripathi, a Computer Science graduate with experience in Zoho Development, Web Design & development and App Development. If not working, you can find me gaming, learning, or listening to music :)
 
 
 ## 🧐 About
