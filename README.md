@@ -23,10 +23,9 @@
 <img align="left" alt="Bootstrap" width="40px" src="https://github.com/deptster/deptster/blob/main/img/bootstrap.png" />
 <img align="left" alt="JavaScript" width="40px" src="https://github.com/deptster/deptster/blob/main/img/javascript.png" />
 <img align="left" alt="Node.js" width="40px" src="https://github.com/deptster/deptster/blob/main/img/nodejs.png" />
-<img align="left" alt="MySQL" width="40px" src="https://github.com/deptster/deptster/blob/main/img/mysql.png" />
-<img align="left" alt="Git" width="40px" src="https://github.com/deptster/deptster/blob/main/img/git.png" />
+<img align="left" alt="MySQL" width="60px" src="https://github.com/deptster/deptster/blob/main/img/mysql-logo-black-and-white.png" />
 <img align="left" alt="Github" width="40px" src="https://github.com/deptster/deptster/blob/main/img/github.svg" />
-<img align="left" alt="ZOHO" height="40px" src="https://github.com/deptster/deptster/blob/main/img/Zui-zoho-logo-sample.jpg" />
+<img align="left" alt="ZOHO" height="40px" src="https://github.com/deptster/deptster/blob/main/img/zoho-logo.png" />
 <br/>
 
 ---
