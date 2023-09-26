@@ -3,12 +3,12 @@
 [![Gmail Badge](https://img.shields.io/badge/deepantripathi0000@gmail.com-30302f?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:deepantripathi0000@gmail.com)
 [![Github Badge](https://img.shields.io/badge/deepan_tripathi-30302f?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/deptster)
 ## Hi there 👋,           
-##### I'm Deepan Tripathi, a Computer Science graduate with a keen intrest in Web Design and Development. I'm a self motivated guy eager to leverage my skills in Web Development and ZOHO to gain more experience working in a professional environment. If not working, you can find me gaming, learning or listening to music :)
+##### I'm Deepan Tripathi, a Computer Science graduate with experience in Zoho Development, Web Design & development and App Development. If not working, you can find me gaming, learning, or listening to music :)
 
 
 ## 🧐 About
-- 🏄‍ Web Developer/Front End
-- 🤝 I am looking forward to collaborate on any projects
+- 🏄‍ Zoho | API Integrations | Web Design & Development 
+- 🤝 I am looking forward to collaborate on any project
 - 🌱 I’m currently learning ZOHO
 - ⚡ Fun fact: I ❤️ Pizza 🍕
 - 📫 How to reach me: mail me at [deepantripathi0000@gmail.com](mailto:deepantripathi0000@gmail.com)
